@@ -4,18 +4,49 @@
 1
 0
 0
-5
-1
-34
-Cal1, Cal2, Cal3, Cal4, Cal5, Cal6
 6
 1
-12
-CALIFICACION
-33
-(Cal1+Cal2+Cal3+Cal4+Cal5+Cal6)/6
+8
+PNatural
+5
+25000
 4
 1
-29
-"CALIFICACION =",CALIFICACION
+20
+"INTRODUZCA LA EDAD"
+5
+1
+4
+EDAD
+7
+0
+1
+7
+EDAD <6
+6
+1
+5
+Total
+8
+PNatural
+4
+1
+5
+Total
+13
+4
+1
+25
+"Tiene descuento del 10%"
+6
+1
+5
+Total
+13
+PNatural*0.10
+4
+1
+5
+Total
+13
 1

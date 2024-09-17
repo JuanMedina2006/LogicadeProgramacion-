@@ -4,38 +4,62 @@
 1
 0
 0
-4
-1
-28
-"INGRESE EL VALOR DEL RADIO"
-5
-1
-1
-R
-4
-1
-30
-"INGESE EL VALOR DE LA ALTURA"
-5
-1
-1
-H
 6
-2
+1
+8
+Acuatico
+5
+40000
+4
+1
+20
+"INTRODUZCA LA EDAD"
+5
+1
+4
+EDAD
 7
-VOLUMEN
-21
-3.14159265359*(R^2)*H
-4
-AREA
-23
-2*3.14159265359*R*(R+H)
+0
+1
+7
+EDAD <3
+6
+1
+5
+Total
+13
+Acuatico*0.20
 4
 1
-18
-"VOLUMEN ",VOLUMEN
+5
+Total
+13
 4
 1
-12
-"AREA ",AREA
+24
+"Tiene entrada gratuita"
+7
+0
+1
+8
+EDAD <12
+6
+1
+5
+Total
+8
+Acuatico
+4
+1
+5
+Total
+13
+6
+1
+5
+Total
+13
+Acuatico*0.20
+13
+13
 1

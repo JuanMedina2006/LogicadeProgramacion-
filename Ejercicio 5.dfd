@@ -3,21 +3,82 @@
 1
 1
 0
-1
-20
-AREA DE UN TRIANGULO
-5
-1
-12
-BASE, ALTURA
+0
 6
 1
-4
-AREA
-13
-BASE*ALTURA/2
+3
+Zoo
+5
+20000
 4
 1
-12
-"AREA ",AREA
+20
+"INTRODUZCA LA EDAD"
+5
+1
+4
+EDAD
+7
+0
+1
+8
+EDAD <12
+6
+1
+5
+Total
+3
+Zoo
+4
+1
+5
+Total
+13
+4
+1
+26
+"Tienen descuento del 25%"
+7
+0
+1
+7
+EDAD >5
+4
+1
+24
+"Tiene entrada gratuita"
+7
+0
+1
+8
+EDAD <5 
+6
+1
+5
+Total
+3
+Zoo
+4
+1
+5
+Total
+13
+4
+1
+24
+"Tiene entrada gratuita"
+13
+13
+6
+1
+5
+Total
+8
+Zoo*0.25
+4
+1
+5
+Total
+13
+13
 1

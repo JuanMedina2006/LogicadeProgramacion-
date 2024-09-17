@@ -4,18 +4,49 @@
 1
 0
 0
-5
-1
-18
-Ss1, Ss2, Ss3, Ss4
 6
 1
-7
-Salario
-15
-Ss1+Ss2+Ss3+Ss4
+9
+Bibioteca
+5
+40000
 4
 1
-21
-"Salario = ",Salario 
+20
+"INTRODUZCA LA EDAD"
+5
+1
+4
+EDAD
+7
+0
+1
+8
+EDAD <18
+6
+1
+5
+Total
+9
+Bibioteca
+4
+1
+5
+Total
+13
+4
+1
+25
+"Tiene descuento del 50%"
+6
+1
+5
+Total
+14
+Bibioteca*0.50
+4
+1
+5
+Total
+13
 1
